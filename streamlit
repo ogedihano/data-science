@@ -1,0 +1,8 @@
+Streamlit
+
+What is streamlit: Streamlit is the fastest way to build, share data apps. Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. With Streamlit, you can build and deploy a powerful data app within minutes
+
+Installation
+
+pip install streamlit
+install for a different operating system here
